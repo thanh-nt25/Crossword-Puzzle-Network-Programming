@@ -1,3 +1,5 @@
+## Description
+Multi-threaded Crossword Puzzle network programming project utilizing sockets and the IPv4 protocol.
 ## How to run
 Project only run on Ubuntu
 1. **Clone repository**
